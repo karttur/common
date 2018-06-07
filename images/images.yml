@@ -1,0 +1,590 @@
+ts-mdsl-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Indonesia.
+    credit: null
+    source: null
+ols-sl-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-mdsl-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Kalahari, Botswana.
+    credit: null
+    source: null
+bio-photo.jpg:
+    author: Thomas Gumbricht
+    caption: Thomas Gumbricht
+    credit: null
+    source: null
+tropsoilwetnessmap.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-ic-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-r2-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-rmse-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-losl-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in soil moisture 2001-2016, Indonesia.
+    credit: null
+    source: null
+ts-losl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rainfall 2001-2016.
+    credit: null
+    source: null
+ts-upsl-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Theil-Sen upper confidence boundary (95%) for estimated change in rain normalized soil moisture 2001-2016, Indonesia.
+    caption: null
+    credit: null
+    source: null
+avg-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+rntwi-delta_RNTWI_id_2001-2016_mk-z-ts-model.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+troplandformmap.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-ic-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated soil moisture 2001, Kalahari, Botswana.
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_id_2001-2016_mk-z-ts-model.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-upsl-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in soil moisture 2001-2016, Indonesia.
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_oka_2001-2016_mk-z-ts-model.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_bwpans_2001-2016_mk-z-ts-model@p005.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-losl-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in soil moisture 2001-2016, Okavango, Botswana.
+    credit: null
+    source: null
+ols-ic-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-mdsl-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in soil moisture 2001-2016, Kalahari, Botswana.
+    credit: null
+    source: null
+mk-z-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+std-trmm-fao-diff-vwb_vwb_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-ic-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated rain normalized soil moisture 2001, Kalahari, Botswana.
+    credit: null
+    source: null
+ts-ic-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated rain normalized soil moisture 2001, Okavango, Botswana.
+    credit: null
+    source: null
+avg-trmm-fao-surplus-vwb_vwb_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-upsl-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in soil moisture 2001-2016, Okavango, Botswana.
+    credit: null
+    source: null
+rainfall-delta_3B43_trmm_2001-2016_mk-z-ts-model.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+std-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+std-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-upsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in rainfall 2001-2016.
+    credit: null
+    source: null
+ols-ic-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-sl-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+avg-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_bwpans_2001-2016_mk-z-ts-model.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+mk-z-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-r2-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-rmse-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-mdsl-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Indonesia.
+    credit: null
+    source: null
+ts-mdsl-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Java, Indonesia.
+    credit: null
+    source: null
+ts-losl-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rain normalized soil moisture 2001-2016, Kalahari, Botswana.
+    credit: null
+    source: null
+ols-r2-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-sl-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-losl-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in soil moisture 2001-2016, Java, Indonesia.
+    credit: null
+    source: null
+rntwi-delta_RNTWI_bwpans_2001-2016_mk-z-ts-model.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-r2-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+avg-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+std-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+mk-z-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+avg-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-mdsl-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Okavango, Botswana.
+    credit: null
+    source: null
+avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-ic-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-rmse-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+avg-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+avg-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_java_2001-2016_mk-z-ts-model.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-upsl-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in rain normalized soil moisture 2001-2016, Okavango, Botswana.
+    credit: null
+    source: null
+ts-losl-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rain normalized soil moisture 2001-2016, Java, Indonesia.
+    credit: null
+    source: null
+ols-r2-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-mdsl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rainfall 2001-2016.
+    credit: null
+    source: null
+ols-rmse-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+mk-z-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-mdsl-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in soil moisture 2001-2016, Okavango, Botswana.
+    credit: null
+    source: null
+ts-ic-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated rain normalized soil moisture 2001, Java, Indonesia.
+    credit: null
+    source: null
+ols-ic-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+std-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-mdsl-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rsoil moisture 2001-2016, Okavango, Botswana.
+    credit: null
+    source: null
+ols-r2-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+avg-trmm-fao-diff-vwb_vwb_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+std-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-sl-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-sl-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-upsl-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in rain normalized soil moisture 2001-2016, Java, Indonesia.
+    credit: null
+    source: null
+ts-losl-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rain normalized soil moisture 2001-2016, Indonesia.
+    credit: null
+    source: null
+ts-upsl-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in soil moisture 2001-2016, Kalahari, Botswana.
+    credit: null
+    source: null
+ols-sl-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+twi-percent-delta_MCD43A4_oka_2001-2016_mk-z-ts-model@p005.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-losl-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in soil moisture 2001-2016, Kalahari, Botswana.
+    credit: null
+    source: null
+std-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-sl-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+troprunoffmap.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+mk-z-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-rmse-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+std-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-rmse-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-sl-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-ic-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-rmse-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+std-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-ic-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated soil moisture 2001, Java, Indonesia.
+    credit: null
+    source: null
+rainfall-delta_3B43_trmm_2001-2016_mk-z-ts-model@p005.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+rntwi-delta_RNTWI_oka_2001-2016_mk-z-ts-model.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+avg-twi-percent_MCD43A4_bwpans_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-r2-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-rmse-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-rmse-trmm-3b43v7-precip_3B43_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-r2-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-r2-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+mk-z-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ts-upsl-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated change in rain normalized soil moisture 2001-2016, Java, Indonesia.
+    credit: null
+    source: null
+ols-ic-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+mk-z-rntwi_RNTWI_java_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+ols-sl-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: null
+    credit: null
+    source: null
+avg-trmm-fao-deficit-vwb_vwb_trmm_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Average rainfall deficit 2001-2016.
+    credit: null
+    source: null
+rntwi-delta_RNTWI_java_2001-2016_mk-z-ts-model.jpg:
+    author: Thomas Gumbricht
+    caption: Rain normalized soil moisture change 2001-2016, Java, Indonesia.
+    credit: null
+    source: null
+mk-z-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in rain normalized soil moisture 2001-2016, Okavango, Botswana.
+    credit: null
+    source: null
+std-twi-percent_MCD43A4_java_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Soil moisture standard deviation 2001-2016, Java (Indonesia).
+    credit: null
+    source: null
+ts-ic-rntwi_RNTWI_id_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated rain normalized soil moisture 2001, Indonesia.
+    credit: null
+    source: null
+ts-losl-rntwi_RNTWI_oka_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen lower confidence boundary (95%) for estimated change in rain normalized soil moisture 2001-2016, Okavango, Botswana.
+    credit: null
+    source: null
+ols-ic-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Ordinary least square estimated soil moisture 2001, Indonesia.
+    credit: null
+    source: null
+mk-z-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Mann-Kendall Z-test for changes in soil moisture 2001-2016, Okavango, Botswana.
+    credit: null
+    source: null
+avg-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Average rain normalized soil wetness 2001-2016, Kalahari, Botswana.
+    credit: null
+    source: null
+ts-ic-twi-percent_MCD43A4_id_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated soil moisture 2001, Indonesia.
+    credit: null
+    source: null
+ts-upsl-rntwi_RNTWI_bwpans_2001-2016_AS.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen upper confidence boundary (95%) for estimated soil moisture change 2001-2016, Kalahari, Botswana. 
+    credit: null
+    source: null
+ts-ic-twi-percent_MCD43A4_oka_2001-2016_A.jpg:
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated soil moisture 2001, Okavango, Botswana.
+    credit: null
+    source: null
+tropwetlandmap.jpg:
+    author: Thomas Gumbricht
+    caption: Wetlands
+    credit: null
+    source: null
